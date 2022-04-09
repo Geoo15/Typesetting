@@ -1,0 +1,34 @@
+Tomorrows forecast: Eveything is too small.
+Colors are almost all wrong. Two of the city names are missing.
+
+Whiteboard: Multiple signs are missing.
+
+Spell makes her..: too small
+
+Goddess search: too sharp. Not centered compared to japanese
+
+Ligh music club: text placement is weird but ok.
+Why mask the "Here's the" ?!?!?
+Also, mask is too obvious/visible.
+
+Uum let's walk home together: second part of the sign is missing.
+Font is "fine" 
+You could've just used \ko tags. 
+I would prefer the second line to onl appear when the second line also appears in the original.
+
+Kurokawa music: Not bad.
+Perspective is a little off. comparison: https://slow.pics/c/ndxzL9Gr
+
+Zahuczky'z approved. blends in well. Why is this your best sign?
+
+Closed today: disappears after one frame
+
+Info: shows up multiuple times, but you only typesetted it once. A translator might only translate something once. You need to pay attention to always typeset it.
+Too much blur. Weird color. No 3d effect.
+
+DDY: Still good, blends in well.
+
+Dont be mad at me: Too sharp. \blur0.1 doesn't exist. Dont go under 0.4
+
+Bad font, or font not included.
+Fade is a bit off.
